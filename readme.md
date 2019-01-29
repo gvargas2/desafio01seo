@@ -26,7 +26,13 @@
 ![excel2](https://user-images.githubusercontent.com/44576817/51942957-12c05680-23f7-11e9-9082-705468bc4739.JPG)
 ![excel3](https://user-images.githubusercontent.com/44576817/51942979-1eac1880-23f7-11e9-916e-899756e22c9a.JPG)
 ![excel4](https://user-images.githubusercontent.com/44576817/51942993-28ce1700-23f7-11e9-8d78-c8c243f175e8.JPG)
-    
+
 7. Usamos las keyword en nuestras paginas de Inicio y Blog, como también en la entrada creada.
 
 # Capturas de Página de Inicio y Blog:
+![capturaprincipal1](https://user-images.githubusercontent.com/44576817/51943136-85313680-23f7-11e9-80fc-63f4ce760e49.JPG)
+![capturaprincipal2](https://user-images.githubusercontent.com/44576817/51943176-9aa66080-23f7-11e9-8766-6d4cbdcb7247.JPG)
+![capturaprincipal3](https://user-images.githubusercontent.com/44576817/51943190-a1cd6e80-23f7-11e9-85f9-9277f893eadc.JPG)
+![capturaprincipal4](https://user-images.githubusercontent.com/44576817/51943205-ad209a00-23f7-11e9-890a-9a2f466fa3ac.JPG)
+![capturaprincipal5](https://user-images.githubusercontent.com/44576817/51943219-b578d500-23f7-11e9-94c1-df26eb527f1c.JPG)
+![capturablog](https://user-images.githubusercontent.com/44576817/51943230-bd387980-23f7-11e9-9371-c7108a2b2a7c.JPG)
